@@ -25,7 +25,7 @@ The solution is an interactive dashboard structured across Summary, Overview, an
 | Tool | Purpose & Skills Demonstrated |
 | :--- | :--- |
 | **Power BI Desktop** | **End-to-end data modeling, ETL** (Extract, Transform, Load) processes, **DAX** calculations, and advanced dynamic visualization design. |
-| **Excel** | Data cleansing, transformation, and management of the underlying financial ledger. |
+| **ETL Staging** | Data cleansing, transformation, and management of the underlying financial ledger. |
 
 ## Files in this Repository
 
